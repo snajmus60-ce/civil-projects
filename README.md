@@ -1,4 +1,3 @@
-# civil-projects
 # 🏗️ Architectural Visualization Project
 
 This project showcases a **3D architectural design workflow** using **AutoCAD**, **Autodesk Revit**, and **Lumion**.  
@@ -27,3 +26,23 @@ Here are some rendered views from the project:
 
 <p align="center">
   <img src="renders/awawa.jpg" width="400" />
+  <img src="renders/eseses.jpg" width="400" />
+</p>
+
+<p align="center">
+  <img src="renders/gygy.jpg" width="400" />
+</p>
+
+---
+
+## ⚙️ Software Used
+- **AutoCAD** → 2D Drafting (Plans & Elevations)  
+- **Autodesk Revit** → 3D Building Information Modeling (BIM)  
+- **Lumion** → Rendering & Walkthrough Animation  
+
+---
+
+## 👤 Author
+**SAKIB MUSHTAQ**  
+Civil Engineering Student | Architectural Visualization Enthusiast  
+
